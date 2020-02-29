@@ -1,0 +1,32 @@
+
+gcom.geometry.Rectangle#Better(Lcom/geometry/Rectangle;Lcom/geometry/Rectangle;)Lcom/geometry/Rectangle;O
+EF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangle.java4 4("3*Æ
+2O
+EF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangle.java: :("p
+O
+EF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangle.java: :(
+
+acom.geometry.Rectangle*È
+3O
+EF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangle.java6 6(³°
+O
+EF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangle.java7 7(
+%0double"#com.geometry.Rectangle#Perimeter()D*
+
+acom.geometry.Rectangle2Perimeter()³°
+O
+EF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangle.java8 8(
+%1double"#com.geometry.Rectangle#Perimeter()D*
+
+bcom.geometry.Rectangle2Perimeter()*
+2
+1*Æ
+1O
+EF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangle.java< <("p
+O
+EF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangle.java< <(
+
+bcom.geometry.Rectangle:
+acom.geometry.Rectangle:
+bcom.geometry.RectangleB
+com.geometry.Rectangle

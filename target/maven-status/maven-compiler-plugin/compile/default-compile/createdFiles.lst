@@ -1,2 +1,7 @@
-com\geometry\Rectangle.class
+com\geometry\Parallelepipeds.class
+com\geometry\SumPerimeterFigure.class
+com\geometry\Figure.class
 com\geometry\Main.class
+com\geometry\Rectangle.class
+com\geometry\Rectangles.class
+com\geometry\Parallelepiped.class

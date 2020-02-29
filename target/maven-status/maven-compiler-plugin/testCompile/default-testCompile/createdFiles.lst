@@ -1,1 +1,5 @@
 com\geometry\RectangleTests.class
+com\geometry\RectanglesTests.class
+com\geometry\ParallelepipedsTests.class
+com\geometry\FigureTests.class
+com\geometry\ParallelepipedTests.class
