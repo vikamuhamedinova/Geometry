@@ -15,6 +15,7 @@
       <FILTER>com.geometry.*</FILTER>
     </SUITE>
   </component>
+  <component name="ExportTestResults" exportFormat="Xml" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -35,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/geometry/RectangleTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+            <state relative-caret-position="248">
+              <caret line="43" column="64" lean-forward="true" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -74,8 +75,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/geometry/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/geometry/Main.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/geometry/RectangleTests.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -85,19 +86,10 @@
         <option name="usePluginRegistry" value="true" />
       </MavenGeneralSettings>
     </option>
-    <option name="enabledProfiles">
-      <list>
-        <option value="coverage" />
-      </list>
-    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
-        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Geometry" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -116,11 +108,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="722" />
-    <option name="y" value="8" />
-    <option name="width" value="1034" />
-    <option name="height" value="1073" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="856" />
+    <option name="width" value="1070" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -188,7 +179,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582942500528" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582943163232" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -266,15 +257,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RectangleTests_perimeter - 2020.02.28 at 23h 13m 43s.xml">
-      <configuration name="RectangleTests.perimeter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RectangleTests_perimeter - 2020.02.28 at 23h 14m 01s.xml">
-      <configuration name="RectangleTests.perimeter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RectangleTests_perimeter - 2020.02.29 at 01h 25m 51s.xml">
-      <configuration name="RectangleTests.perimeter" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RectangleTests_perimeter - 2020.02.29 at 08h 34m 29s.xml">
       <configuration name="RectangleTests.perimeter" configurationId="JUnit" />
     </history-entry>
@@ -296,12 +278,21 @@
     <history-entry file="RectangleTests_perimeter - 2020.02.29 at 09h 09m 28s.xml">
       <configuration name="RectangleTests.perimeter" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RectangleTests_perimeter - 2020.02.29 at 09h 12m 04s.xml">
+      <configuration name="RectangleTests.perimeter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangleTests_perimeter - 2020.02.29 at 09h 12m 18s.xml">
+      <configuration name="RectangleTests.perimeter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangleTests_perimeter - 2020.02.29 at 09h 13m 48s.xml">
+      <configuration name="RectangleTests.perimeter" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="578" y="7" width="827" height="858" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28292048" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14563759" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -310,7 +301,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33471075" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32573727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,7 +315,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24902217" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.32985657" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.16979866" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -340,13 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -366,11 +350,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/geometry/RectangleTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="43" column="64" lean-forward="true" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
         </state>
       </provider>
     </entry>
