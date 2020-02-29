@@ -1,0 +1,7 @@
+organization=vikamuhamedinova
+projectKey=vikamuhamedinova_Geometry
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.5143
+dashboardUrl=https://sonarcloud.io/dashboard?id=vikamuhamedinova_Geometry
+ceTaskId=AXCOyTzSFDNvwujWV9Ha
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXCOyTzSFDNvwujWV9Ha
