@@ -10,7 +10,7 @@ class FigureTests {
         Figure figures = new Figure(8,7,6);
         figures.Insert(0,2,3);
         figures.Insert(0,4,5);
-        assertEquals(figures.IsArrayRectanglePlacedMainParallelepiped(),1);
+        assertEquals(1, figures.IsArrayRectanglePlacedMainParallelepiped());
     }
 
     @Test
@@ -18,19 +18,21 @@ class FigureTests {
         Figure figures = new Figure(8,7,6);
         figures.Insert(0,2,3);
         figures.Insert(1,9,5);
-        assertEquals(figures.IsArrayRectanglePlacedMainParallelepiped(),0);
+        assertEquals(0, figures.IsArrayRectanglePlacedMainParallelepiped());
 
     }
 
     @Test
     void isPlacedMainParallelepiped_1() {
-        Figure figures = new Figure(8,7,6,5,4,3,2,1);
-        assertEquals(figures.isPlacedMainParallelepiped(),1);
+        Figure figures = new Figure(8,7,6);
+        figures.InitFigure(5,4,3,2,1);
+        assertEquals(1, figures.isPlacedMainParallelepiped());
     }
 
     @Test
     void isPlacedMainParallelepiped_0() {
-        Figure figures = new Figure(1,2,3,4,5,6,7,8);
-        assertEquals(figures.isPlacedMainParallelepiped(),0);
+        Figure figures = new Figure(1,2,3);
+        figures.InitFigure(4,5,6,7,8);
+        assertEquals(0, figures.isPlacedMainParallelepiped());
     }
 }

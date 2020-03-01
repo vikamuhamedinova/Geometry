@@ -15,6 +15,7 @@ class Parallelepiped extends Rectangle
         fhird=0;
     }
 
+    @Override
     public double Perimeter()
     {
         if(first<=0 || second<=0 || fhird<=0)
