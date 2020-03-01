@@ -16,10 +16,9 @@ getClass(),java.lang.Object#getClass()Ljava/lang/Class;5
 notifyAll()java.lang.Object#notifyAll()V"
 wait()java.lang.Object#wait()V*
 
-hashCode()java.lang.Object#hashCode()Ij
-com.geometry.SumPerimeterFigurejava.lang.Object5
-<init>())com.geometry.SumPerimeterFigure#<init>()V¬
-com.geometry.Rectanglescom.geometry.SumPerimeterFigure9
+hashCode()java.lang.Object#hashCode()I3
+com.geometry.SumPerimeterFigurejava.lang.Object¾
+com.geometry.Rectanglescom.geometry.SumPerimeterFigurejava.lang.Object9
 SumPerimeter()'com.geometry.Rectangles#SumPerimeter()D5
 <init>(DDDD)%com.geometry.Rectangles#<init>(DDDD)VÍ
 com.geometry.Rectanglejava.lang.Object£
@@ -34,8 +33,8 @@ hashCode()java.lang.Object#hashCode()Ij
 Perimeter()#com.geometry.Rectangle#Perimeter()D.
 	Display()!com.geometry.Rectangle#Display()V0
 
-GetFirst()"com.geometry.Rectangle#GetFirst()D¿
-com.geometry.Parallelepipedscom.geometry.SumPerimeterFigure>
+GetFirst()"com.geometry.Rectangle#GetFirst()DÑ
+com.geometry.Parallelepipedscom.geometry.SumPerimeterFigurejava.lang.Object>
 <init>(DDDDDD),com.geometry.Parallelepipeds#<init>(DDDDDD)V>
 SumPerimeter(),com.geometry.Parallelepipeds#SumPerimeter()DÙ
 com.geometry.Parallelepipedcom.geometry.Rectangle7
