@@ -2,7 +2,9 @@ package com.geometry;
 
 public class Figure{
     static final int N=10;
-    private double C, D, E;
+    private double C;
+    private double D;
+    private double E;
     private Rectangle rectangle;
     private Parallelepiped parallelepiped;
     private Rectangle [] rectangles = new Rectangle[N];
@@ -24,7 +26,8 @@ public class Figure{
     {
         double [] first=new double[N];
         double [] second=new double[N];
-        int i, f=0;
+        int i;
+        int f=0;
         for(i=0;i<quantity;i++)
         {	first[i] = rectangles[i].GetFirst();
             second[i] = rectangles[i].GetSecond();

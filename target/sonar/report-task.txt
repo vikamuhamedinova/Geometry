@@ -3,5 +3,5 @@ projectKey=vikamuhamedinova_Geometry
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.5143
 dashboardUrl=https://sonarcloud.io/dashboard?id=vikamuhamedinova_Geometry
-ceTaskId=AXCSSiCudu9yA88nIn55
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXCSSiCudu9yA88nIn55
+ceTaskId=AXCVawYSx8PJ8MOtHmxo
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXCVawYSx8PJ8MOtHmxo

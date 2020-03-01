@@ -1,7 +1,8 @@
 package com.geometry;
 
 class Rectangles extends SumPerimeterFigure{
-    protected Rectangle rectangleA, rectangleB;
+    protected Rectangle rectangleA;
+    protected Rectangle rectangleB;
     public Rectangles(double firstA,double secondA,double firstB,double secondB)
     {
         rectangleA=new Rectangle(firstA,secondA);

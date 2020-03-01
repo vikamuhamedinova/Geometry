@@ -1,7 +1,8 @@
 package com.geometry;
 
 class Parallelepipeds extends SumPerimeterFigure{
-    protected Parallelepiped parallelepipedA, parallelepipedB;
+    protected Parallelepiped parallelepipedA;
+    protected Parallelepiped parallelepipedB;
     public Parallelepipeds(double firstA,double secondA,double fhirdA,
                            double firstB,double secondB,double fhirdB)
     {

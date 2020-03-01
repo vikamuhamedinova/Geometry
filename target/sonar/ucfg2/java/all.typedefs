@@ -171,13 +171,13 @@ println(C)java.io.PrintStream#println(C)VK
 1<init>(Ljava/io/OutputStream;ZLjava/lang/String;)Fjava.io.PrintStream#<init>(Ljava/io/OutputStream;ZLjava/lang/String;)VU
 <init>(Ljava/io/OutputStream;)3java.io.PrintStream#<init>(Ljava/io/OutputStream;)V/
 println([C) java.io.PrintStream#println([C)V‹
-9<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)Njava.io.PrintStream#<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)V•
+9<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)Njava.io.PrintStream#<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)V—
 com.geometry.Figurejava.lang.Object+
-	Delete(I)com.geometry.Figure#Delete(I)V9
-<init>(DDDDDDDD)%com.geometry.Figure#<init>(DDDDDDDD)V/
+	Delete(I)com.geometry.Figure#Delete(I)V/
 <init>(DDD) com.geometry.Figure#<init>(DDD)V/
 Insert(IDD) com.geometry.Figure#Insert(IDD)V+
-	Display()com.geometry.Figure#Display()V3
+	Display()com.geometry.Figure#Display()V;
+InitFigure(DDDDD)&com.geometry.Figure#InitFigure(DDDDD)V3
 AddResult(DD)"com.geometry.Figure#AddResult(DD)VQ
 isPlacedMainParallelepiped()1com.geometry.Figure#isPlacedMainParallelepiped()Im
 *IsArrayRectanglePlacedMainParallelepiped()?com.geometry.Figure#IsArrayRectanglePlacedMainParallelepiped()I

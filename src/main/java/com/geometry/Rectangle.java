@@ -51,7 +51,8 @@ public class Rectangle {
 
     public Rectangle Better(Rectangle a,Rectangle b)
     {
-        double p1, p2;
+        double p1;
+        double p2;
         p1=a.Perimeter();
         p2=b.Perimeter();
         if(p1>p2)
@@ -62,7 +63,8 @@ public class Rectangle {
 
     public Rectangle Better(Rectangle b)
     {
-        double p1, p2;
+        double p1;
+        double p2;
         p1=this.Perimeter();
         p2=b.Perimeter();
         if(p1>p2)
