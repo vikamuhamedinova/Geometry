@@ -1,6 +1,6 @@
 package com.geometry;
 
-class Rectangles extends SumPerimeterFigure{
+class Rectangles implements SumPerimeterFigure{
     protected Rectangle rectangleA;
     protected Rectangle rectangleB;
     public Rectangles(double firstA,double secondA,double firstB,double secondB)

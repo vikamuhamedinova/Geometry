@@ -1,6 +1,6 @@
 package com.geometry;
 
-class Parallelepipeds extends SumPerimeterFigure{
+class Parallelepipeds implements SumPerimeterFigure{
     protected Parallelepiped parallelepipedA;
     protected Parallelepiped parallelepipedB;
     public Parallelepipeds(double firstA,double secondA,double fhirdA,

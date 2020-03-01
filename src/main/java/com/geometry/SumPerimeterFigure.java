@@ -1,5 +1,5 @@
 package com.geometry;
 
-abstract class SumPerimeterFigure {
+public interface SumPerimeterFigure {
     public abstract double SumPerimeter();
 }

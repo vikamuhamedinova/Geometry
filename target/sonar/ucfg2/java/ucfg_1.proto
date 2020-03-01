@@ -1,35 +1,33 @@
 
 'com.geometry.Rectangles#SumPerimeter()DP
-FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java
- 
-("1*ó
+FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java ("1*ó
 1P
-FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java (¦
+FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java (¦
 £
 P
-FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java (
+FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java (
 %0com.geometry.Rectangle"__id*+*)
 com.geometry.Rectangles"
 
 rectangleAµ²
 P
-FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java (%
+FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java (%
 %1double"#com.geometry.Rectangle#Perimeter()D*
 
 %0com.geometry.Rectangle2Perimeter()¦
 £
 P
-FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java& (0
+FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java& (0
 %2com.geometry.Rectangle"__id*+*)
 com.geometry.Rectangles"
 
 rectangleBµ²
 P
-FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java& (<
+FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java& (<
 %3double"#com.geometry.Rectangle#Perimeter()D*
 
 %2com.geometry.Rectangle2Perimeter()"Z
 P
-FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java (=
+FF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Rectangles.java (=
 ""B
 com.geometry.Rectangles

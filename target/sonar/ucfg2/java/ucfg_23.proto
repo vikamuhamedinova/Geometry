@@ -1,67 +1,67 @@
 
 1com.geometry.Figure#isPlacedMainParallelepiped()IL
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java( (()"7*©
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java+ +()"7*©
 2L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java/ /("V
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java2 2("V
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java/ /(
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java2 2(
 ""*©
 7L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java) )('
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java, ,('
 š
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java) )('
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java, ,('
 %0com.geometry.Rectangle"__id*&*$
 com.geometry.Figure"
 	rectangle¯¬
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java) )(2
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java, ,(2
 %1double""com.geometry.Rectangle#GetFirst()D*
 
 %0com.geometry.Rectangle2
 GetFirst()
 š
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java*! *(*
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java-! -(*
 %2com.geometry.Rectangle"__id*&*$
 com.geometry.Figure"
 	rectangle±®
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java*! *(6
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java-! -(6
 %3double"#com.geometry.Rectangle#GetSecond()D*
 
 %2com.geometry.Rectangle2GetSecond()§
 ¤
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java+% +(3!
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java.% .(3!
 %4com.geometry.Parallelepiped"__id*+*)
 com.geometry.Figure"
 parallelepiped´±
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java+% +(>
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java.% .(>
 %5double""com.geometry.Rectangle#GetFirst()D*#
 !
 %4com.geometry.Parallelepiped2
 GetFirst()§
 ¤
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java,& ,(4!
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java/& /(4!
 %6com.geometry.Parallelepiped"__id*+*)
 com.geometry.Figure"
 parallelepiped¶³
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java,& ,(@
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java/& /(@
 %7double"#com.geometry.Rectangle#GetSecond()D*#
 !
 %6com.geometry.Parallelepiped2GetSecond()§
 ¤
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java-% -(3!
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java0% 0(3!
 %8com.geometry.Parallelepiped"__id*+*)
 com.geometry.Figure"
 parallelepiped¹¶
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java-% -(>
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java0% 0(>
 %9double"'com.geometry.Parallelepiped#GetFhird()D*#
 !
 %8com.geometry.Parallelepiped2
@@ -69,8 +69,8 @@ GetFhird()*
 2
 1*©
 1L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java1 1("V
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java4 4("V
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java1 1(
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java4 4(
 ""B
 com.geometry.Figure

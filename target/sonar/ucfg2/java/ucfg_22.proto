@@ -1,52 +1,52 @@
 
 ?com.geometry.Figure#IsArrayRectanglePlacedMainParallelepiped()IL
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java (7"9*©
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java (7"9*©
 2L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java# #("V
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java& &("V
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java# #(
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java& &(
 ""*ÿ
 7L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java
- (†
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java 
+  (†
 ù
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java (
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java   (
 %2com.geometry.Rectangle[]"__id*'*%
 com.geometry.Figure"
 
 rectangles•
 ¢
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java ("
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java   ("
 %3com.geometry.Rectangle"
 __arrayGet* 
 
 %2com.geometry.Rectangle[]*
 ""Ø¨
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java (-
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java   (-
 %4double""com.geometry.Rectangle#GetFirst()D*
 
 %3com.geometry.Rectangle2
 GetFirst()†
 ù
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java ("
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java! !("
 %5com.geometry.Rectangle[]"__id*'*%
 com.geometry.Figure"
 
 rectangles•
 ¢
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java (%
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java! !(%
 %6com.geometry.Rectangle"
 __arrayGet* 
 
 %5com.geometry.Rectangle[]*
 ""±Æ
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java (1
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java! !(1
 %7double"#com.geometry.Rectangle#GetSecond()D*
 
 %6com.geometry.Rectangle2GetSecond()*	
@@ -54,23 +54,23 @@ BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java (1
 7
 1*≤
 9L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java# ($i
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java# ($i
 g
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java# ($	
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java# ($	
 %0int"__id*
 ""i
 g
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java$ (%	
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java$ (%	
 %1int"__id*
 ""*	
 2
 7
 1*©
 1L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java% %("V
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java( (("V
 L
-BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java% %(
+BF:/8_semester/VTPO/Geometry/src/main/java/com/geometry/Figure.java( ((
 ""B
 com.geometry.Figure
